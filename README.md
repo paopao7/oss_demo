@@ -1,0 +1,2 @@
+# oss_demo
+该项目为thinkPHP3下集成阿里云对象存储OSS的demo 欢迎大家下载使用
